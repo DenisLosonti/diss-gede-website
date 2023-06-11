@@ -1,0 +1,24 @@
+.title {
+  font-weight: bold;
+  font-size: 50px;
+  font-style: Arial;   
+}
+
+.subtitle {
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 30px;
+  margin-left: 25px;
+  margin-bottom: 10px;
+}
+
+.versuri {
+font-style: italic;
+font-size: 20px;
+margin-left: 0px;
+}
+
+.image {
+  border-radius: 1000000px;
+  width:auto;
+}
